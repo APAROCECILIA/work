@@ -1,0 +1,9 @@
+div{
+    font-size: larger;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: aqua;
+    display: block;
+    text-align: center;
+    height: 50vmin;
+    padding-top: 50px;
+}
